@@ -5,4 +5,3 @@ PRODUCT_NAME := spark_a40
 # Additional Props
 TARGET_FACE_UNLOCK_SUPPORTED := true
 TARGET_BOOT_ANIMATION_RES := 1080
-SPARK_MAINTAINER := Alexandru Semina(semialex16)
